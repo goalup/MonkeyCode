@@ -17,6 +17,9 @@
   <a href="https://monkeycode-ai.gallery/">Community Gallery</a> ·
   <a href="./readme.cn.md">中文</a>
 </p>
+<p align="center">
+  <sub>China mirror: <a href="https://atomgit.com/chaitin/MonkeyCode">AtomGit</a> — hosted in mainland China for faster project and Release access.</sub>
+</p>
 
 ## What Is MonkeyCode?
 
