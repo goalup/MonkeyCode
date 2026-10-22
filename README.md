@@ -123,7 +123,6 @@ You can also get support through:
 - Enterprise consultation: [https://baizhi.cloud/consult](https://baizhi.cloud/consult)
 - Discord: [https://discord.gg/2pPmuyr4pP](https://discord.gg/2pPmuyr4pP)
 - GitHub Issues: [https://github.com/chaitin/MonkeyCode/issues](https://github.com/chaitin/MonkeyCode/issues)
-- China mirror: [AtomGit](https://atomgit.com/chaitin/MonkeyCode) — hosted in mainland China for faster project and Release access.
 
 ## Star History
 
